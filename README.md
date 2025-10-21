@@ -22,5 +22,5 @@ Proje, **Kaggle** üzerinde bulunan `ouzcanmaden/places-to-visit-in-istanbul` ve
 3. **Plan Oluştur:** "Plan Oluştur" butonuna tıklayarak gezi planınızı oluşturun.
 
 ## Web Linki
-Proje uygulamanıza [Gradio Web Uygulaması](https://9de61b3c7cdbbed131.gradio.live) üzerinden erişebilirsiniz (72 saat süreyle açık kalıyor).
+Proje uygulamasına [Gradio Web Uygulaması](https://9de61b3c7cdbbed131.gradio.live) üzerinden erişebilirsiniz (72 saat süreyle açık kalıyor).
 
