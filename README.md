@@ -95,6 +95,5 @@
     demo.launch(share=True)
     ```
 
-    Bu adımları takip ederek, projenizi Colab üzerinde çalıştırabilirsiniz. Ayrıca, proje bağlantısı aracılığıyla Gradio arayüzünü de kullanabilirsiniz.
 
     
