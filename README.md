@@ -63,7 +63,7 @@ Bu projeyi Google Colab üzerinde kolayca çalıştırabilirsiniz. İlgili hücr
 
 ## Kolay Çalıştırma
 
-Aşağıdaki Colab hücresini çalıştırarak projeyi başlatabilirsiniz:
+Aşağıdaki Colab hücresini çalıştırarak projeyi başlatabilmek mümkün
 
     ```python
     # Gerekli kütüphaneler
